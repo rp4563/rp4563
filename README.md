@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritik Singh Pubdhir</h1>
+<h1 align="center">Hi 👋, I'm Ritik Singh Pundhir</h1>
 <h3 align="center">A passionate JAVA developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rp4563&label=Profile%20views&color=0e75b6&style=flat" alt="rp4563" /> </p>
